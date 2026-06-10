@@ -6,6 +6,7 @@ działa to tak, że zdejmuje tego blura i popup logowania
 
 ## Instalacja
 1. zainstaluj wtyczke [tampermonkey](https://www.tampermonkey.net) lub [violentmonkey](https://violentmonkey.github.io)
+
 1.1. w przypadku innych przeglądarek niż firefox i safari włącz "developer mode" w liscie rozszerzeń (url dla google chrome: chrome://extensions)
    <img width="719" height="578" alt="image" src="https://github.com/user-attachments/assets/f596d2c4-1c68-4d8d-bc9a-32d4e311ee32" />
 
